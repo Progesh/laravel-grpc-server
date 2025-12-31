@@ -1,0 +1,12 @@
+services:
+  product-grpc:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "9101:9001"
+    volumes:
+      - .:/var/www/html
+networks:
+  default:
+    name: laravel_microservices_network
