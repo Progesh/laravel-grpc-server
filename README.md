@@ -7,3 +7,5 @@
 ## Running the gRPC Server
 - docker compose up -d
 - Test the connection using Postman v10+ (gRPC supported)
+
+<p>For client side implementation you can checkout to this repository https://github.com/Progesh/laravel-grpc-client</p>
