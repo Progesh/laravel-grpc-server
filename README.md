@@ -13,3 +13,6 @@
 - Test the connection using Postman v10+ (gRPC supported)
 
 <p>For client side implementation you can checkout to this repository https://github.com/Progesh/laravel-grpc-client</p>
+
+## References
+https://docs.roadrunner.dev/docs/plugins/grpc
