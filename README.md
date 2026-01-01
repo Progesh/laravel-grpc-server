@@ -6,7 +6,7 @@
 
 ## Folder Structure
 
-<img width="353" height="481" alt="image" src="https://github.com/user-attachments/assets/44a447da-c1e9-43d4-b064-c992fc7c27ec" />
+<img width="353" height="481" alt="image" src="https://github.com/user-attachments/assets/626e171a-f46c-49a5-aa63-e4f506b109be" />
 
 ## Running the gRPC Server
 - docker compose up -d
