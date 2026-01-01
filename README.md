@@ -1,6 +1,6 @@
 ## Overview
 
-<p>This repository demonstrates a gRPC based client–server communication implemented using Laravel and Roadrunner, showcasing how services can communicate efficiently using Protocol Buffers (Protobuf).</p>
+<p>This repository demonstrates a gRPC Server implementation using Laravel and Roadrunner, showcasing how services can communicate efficiently using Protocol Buffers (Protobuf).</p>
 
 <p>It exposes gRPC endpoints that can be consumed by other services.</p>
 
