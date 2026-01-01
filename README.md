@@ -6,26 +6,7 @@
 
 ## Folder Structure
 
-app/
-|-- Generated/
-|   |-- GPBMetadata/
-|   |   `-- Product.php
-|   |
-|   `-- Product/
-|       |-- ProductRequest.php
-|       |-- ProductResponse.php
-|       `-- ProductServiceClient.php
-|
-|-- Service/
-|   `-- Grpc/
-|       `-- ProductGrpcService.php
-|
-|-- proto/
-|   `-- product.proto
-|
-|-- grpc-worker.php
-`-- .rr.yaml
-
+<img width="353" height="481" alt="image" src="https://github.com/user-attachments/assets/44a447da-c1e9-43d4-b064-c992fc7c27ec" />
 
 ## Running the gRPC Server
 - docker compose up -d
